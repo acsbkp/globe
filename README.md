@@ -1,2 +1,0 @@
-# globe
-acsbkp globe project
